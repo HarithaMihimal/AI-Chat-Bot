@@ -13,7 +13,8 @@ This AI Chat Bot is a simple web-based chat application that uses the Gemini AI 
 
 ## Demo
 
-<img src="demo.png" alt="Chatbot Demo" width="600" />
+<img src="![image](https://github.com/user-attachments/assets/68aa100d-449e-4d11-a340-bb3ca15de23d)
+" alt="Chatbot Demo" width="600" />
 
 ## Prerequisites
 
