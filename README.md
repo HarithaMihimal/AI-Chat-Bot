@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your AI Chat Bot project, detailing setup instructions, dependencies, and how to run the project.
 
-```markdown
 # AI Chat Bot
 
 This AI Chat Bot is a simple web-based chat application that uses the Gemini AI API to generate responses based on user inputs. The frontend is styled with a clean and modern look, providing an engaging chat experience.
